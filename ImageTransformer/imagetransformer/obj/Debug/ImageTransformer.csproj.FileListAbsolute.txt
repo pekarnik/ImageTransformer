@@ -1,0 +1,28 @@
+F:\ImageTransformer\ImageTransformer\ImageTransformer\bin\Debug\ImageTransformer.exe.config
+F:\ImageTransformer\ImageTransformer\ImageTransformer\bin\Debug\ImageTransformer.exe
+F:\ImageTransformer\ImageTransformer\ImageTransformer\bin\Debug\ImageTransformer.pdb
+F:\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.csprojResolveAssemblyReference.cache
+F:\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.Form1.resources
+F:\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.Properties.Resources.resources
+F:\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.csproj.GenerateResource.Cache
+F:\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.exe
+F:\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.pdb
+D:\Dropbox\Dropbox\МОЭД\2 семестр практика\ImageTransformer\ImageTransformer\ImageTransformer\bin\Debug\ImageTransformer.exe.config
+D:\Dropbox\Dropbox\МОЭД\2 семестр практика\ImageTransformer\ImageTransformer\ImageTransformer\bin\Debug\ImageTransformer.exe
+D:\Dropbox\Dropbox\МОЭД\2 семестр практика\ImageTransformer\ImageTransformer\ImageTransformer\bin\Debug\ImageTransformer.pdb
+D:\Dropbox\Dropbox\МОЭД\2 семестр практика\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.Form1.resources
+D:\Dropbox\Dropbox\МОЭД\2 семестр практика\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.Properties.Resources.resources
+D:\Dropbox\Dropbox\МОЭД\2 семестр практика\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.csproj.GenerateResource.cache
+D:\Dropbox\Dropbox\МОЭД\2 семестр практика\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\МОЭД\2 семестр практика\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.exe
+D:\Dropbox\Dropbox\МОЭД\2 семестр практика\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.pdb
+D:\Dropbox\Dropbox\МОЭД\2 семестр практика\ImageTransformer\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.csprojAssemblyReference.cache
+D:\ImageTransformer\ImageTransformer\bin\Debug\ImageTransformer.exe.config
+D:\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.exe
+D:\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.pdb
+D:\ImageTransformer\ImageTransformer\bin\Debug\ImageTransformer.exe
+D:\ImageTransformer\ImageTransformer\bin\Debug\ImageTransformer.pdb
+D:\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.csprojResolveAssemblyReference.cache
+D:\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.Form1.resources
+D:\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.Properties.Resources.resources
+D:\ImageTransformer\ImageTransformer\obj\Debug\ImageTransformer.csproj.GenerateResource.Cache
